@@ -1,0 +1,19 @@
+1. Ever wondered what happens when you type https://www.google.com in your browser and hit Enter? Let's break it down! 🧵👇
+
+2. DNS Request: Your browser checks its cache for the IP address of Google. If not found, it queries DNS servers to translate "google.com" into an IP address.
+
+3. TCP/IP: Once the IP address is known, your browser initiates a TCP connection with Google’s server, involving a three-step handshake (SYN, SYN-ACK, ACK).
+
+4. Firewall: Your request passes through firewalls, which ensure security by filtering out malicious traffic on both client and server sides.
+
+5. HTTPS/SSL: To secure data, HTTPS is used. An SSL handshake occurs, exchanging encryption keys and verifying Google’s SSL certificate to establish a secure connection.
+
+6. Load Balancer: Google's load balancer distributes your request across multiple servers to manage traffic efficiently and ensure reliability.
+
+7. Web Server: The load balancer directs your request to a web server, which handles HTTP requests and serves static content like HTML, CSS, and JavaScript files.
+
+8. Application Server: For dynamic content, the web server forwards the request to an application server that processes business logic and interacts with databases.
+
+9. Database: The application server queries databases to fetch or store data. SQL or NoSQL databases are used based on the data requirements.
+
+10. Finally, the server sends the response back through the established secure connection, and your browser renders the Google homepage! 🌟
