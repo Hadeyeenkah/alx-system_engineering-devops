@@ -5,7 +5,7 @@ Back-end
 API
  Weight: 1
  Project will start Jun 3, 2024 6:00 AM, must end by Jun 4, 2024 6:00 AM
- Checker will be released at Jun 3, 2024 12:00 PM
+ Checker was released at Jun 3, 2024 12:00 PM
  An auto review will be launched at the deadline
 Concepts
 For this project, we expect you to look at this concept:
@@ -114,7 +114,7 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x15-api
 File: 0-gather_data_from_an_API.py
- 
+  
 1. Export to CSV
 mandatory
 Using what you did in the task #0, extend your Python script to export data in the CSV format.
@@ -154,7 +154,7 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x15-api
 File: 1-export_to_CSV.py
- 
+  
 2. Export to JSON
 mandatory
 Using what you did in the task #0, extend your Python script to export data in the JSON format.
@@ -174,7 +174,7 @@ Repo:
 GitHub repository: alx-system_engineering-devops
 Directory: 0x15-api
 File: 2-export_to_JSON.py
- 
+  
 3. Dictionary of list of dictionaries
 mandatory
 Using what you did in the task #0, extend your Python script to export data in the JSON format.
